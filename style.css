@@ -17,7 +17,7 @@
   width: 100px;
 }
 .logo{
-  background-image: url(/amazon_logo.png);
+  background-image: url(amazon_logo.png);
   background-size: cover;
   height: 50px;
   width: 100px;
@@ -129,7 +129,7 @@ span{
 
 /* hero-section */
 .hero-section{
-  background-image: url(/main.jpg);
+  background-image: url(main.jpg);
   background-size: cover;
   height: 350px;
   display: flex;
@@ -215,7 +215,7 @@ span{
   background-image: contain;
   margin-top: 1rem;
   margin-bottom: 1rem;
-  background-image: url('/box3.jpg');
+  background-image: url('box3.jpg');
   background-size: contain;
 }
 .box-content2{
@@ -245,7 +245,7 @@ span{
   background-image: contain;
   margin-top: 1rem;
   margin-bottom: 1rem;
-  background-image: url('/box4.jpg');
+  background-image: url('box4.jpg');
   background-size: contain;
   background-repeat: no-repeat;
 }
@@ -282,7 +282,7 @@ span{
   background-image: contain;
   margin-top: 1rem;
   margin-bottom: 1rem;
-  background-image: url('/box5.jpg');
+  background-image: url('box5.jpg');
   background-size: contain;
   background-repeat: no-repeat;
 }
@@ -313,7 +313,7 @@ span{
   background-image: contain;
   margin-top: 1rem;
   margin-bottom: 1rem;
-  background-image: url('/box6.jpg');
+  background-image: url('box6.jpg');
   background-size: contain;
   background-repeat: no-repeat;
 }
@@ -343,7 +343,7 @@ span{
   background-image: contain;
   margin-top: 1rem;
   margin-bottom: 1rem;
-  background-image: url('/box7.jpg');
+  background-image: url('box7.jpg');
   background-size: contain;
   background-repeat: no-repeat;
 }
@@ -373,7 +373,7 @@ span{
   background-image: contain;
   margin-top: 1rem;
   margin-bottom: 1rem;
-  background-image: url('/box8.jpg');
+  background-image: url('box8.jpg');
   background-size: contain;
   background-repeat: no-repeat;
 }
@@ -427,7 +427,7 @@ ul a{
   align-items: center;
 }
 .logo{
-  background-image: url(/amazon_logo.png);
+  background-image: url(amazon_logo.png);
   background-size: cover;
   height: 50px;
   width: 100px;
@@ -451,4 +451,5 @@ ul a{
 .copyright{
 
 padding-top: 5px;
+
 }
